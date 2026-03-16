@@ -97,7 +97,7 @@ input, select, textarea {
 	body {
 		background: url("../images/BG2.jpg") no-repeat center center;
    		background-size: cover; /* makes it fill the screen */
-		background: #1b1f22;
+		/*background: #1b1f22;*/
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
